@@ -1,0 +1,9 @@
+{
+  "canny_edge_detection_params":
+  {
+    "threshold1" : 5000,
+    "threshold2" : 2799,
+    "apertureSize" : 5,
+    "L2gradient" : true
+  }
+}
